@@ -35,7 +35,7 @@ npm start <server-ip>:<server-port>
 or
 
 ```bash
-node minecraftServerQuery.js <server-ip>:<server-port>
+node MinecraftServerQuery.js <server-ip>:<server-port>
 ```
 
 Replace `<server-ip>` with the IP address of the Minecraft server and `<server-port>` with the port number (default is 25565 if not specified).
