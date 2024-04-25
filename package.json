@@ -1,0 +1,22 @@
+{
+  "name": "minecraftserverquery",
+  "version": "1.0.0",
+  "description": "A utility to query Minecraft server status.",
+  "main": "minecraftServerQuery.js",
+  "type": "module",
+  "scripts": {
+    "start": "node minecraftServerQuery.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minecraft",
+    "server",
+    "query",
+    "util"
+  ],
+  "author": "Max Brückner",
+  "license": "MIT",
+  "dependencies": {
+    "minecraft-server-util": "^5.4.4"
+  }
+}
