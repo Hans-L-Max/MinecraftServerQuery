@@ -18,7 +18,7 @@ To install Minecraft Server Query, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd minecraftServerQuery
+   cd MinecraftServerQuery
    ```
 3. Install the necessary dependencies:
    ```bash
@@ -35,7 +35,7 @@ npm start <server-ip>:<server-port>
 or
 
 ```bash
-node MinecraftServerQuery.js <server-ip>:<server-port>
+node minecraftServerQuery.js <server-ip>:<server-port>
 ```
 
 Replace `<server-ip>` with the IP address of the Minecraft server and `<server-port>` with the port number (default is 25565 if not specified).
